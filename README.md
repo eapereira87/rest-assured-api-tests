@@ -1,3 +1,5 @@
+![CI](https://github.com/eapereira87/rest-assured-api-tests/actions/workflows/ci.yml/badge.svg)
+
 # RestAssured API Tests
 
 Suite simples de testes automatizados de API em Java usando RestAssured + JUnit 5.
